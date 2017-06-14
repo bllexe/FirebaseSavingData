@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseSavingData</string>
+    <array name="Job">
+        <item>Student</item>
+        <item>Doctor</item>
+        <item>Engineer</item>
+        <item>Nurse</item>
+        <item>lawyer</item>
+    </array>
+</resources>
