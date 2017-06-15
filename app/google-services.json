@@ -1,16 +1,16 @@
 {
   "project_info": {
     "project_number": "547766713690",
-    "firebase_url": "https://fir-savingdata-42ecc.firebaseio.com",
-    "project_id": "fir-savingdata-42ecc",
-    "storage_bucket": "fir-savingdata-42ecc.appspot.com"
+    
+    
+    
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:547766713690:android:6b7152a803f38a6b",
         "android_client_info": {
-          "package_name": "com.example.bilal.firebasesavingdata"
+         
         }
       },
       "oauth_client": [
